@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WiFinder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_map">The Map</string>
+    <string name="input_name_edit_text">Input your nickname</string>
+    <string name="input_name_title">Set your name</string>
+    <string name="input_name_explain_text">Here you can set the name your firends will see when looking for you</string>
+    <string name="device_img">string_img</string>
+    <string name="instruction_card_text">Tap on the floating search button to create a group. If you want to connect to one of your friends who has already created a group, just tap on her name.</string>
+    <string name="input_name_card_text">Welcome! Before starting please choose a valid (at least 2 characters) nickname. Your friends will find you with this nickname!</string>
+    <string name="home_introduction_title">Welcome to WiFinder!</string>
+</resources>

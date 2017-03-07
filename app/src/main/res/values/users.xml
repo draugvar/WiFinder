@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_icons">
+        <item>@drawable/angel6</item>
+        <item>@drawable/astrologer</item>
+        <item>@drawable/bicyclist</item>
+        <item>@drawable/bookkeeper</item>
+        <item>@drawable/boy13</item>
+        <item>@drawable/business60</item>
+        <item>@drawable/business61</item>
+        <item>@drawable/cool4</item>
+        <item>@drawable/crash</item>
+        <item>@drawable/criminal</item>
+        <item>@drawable/devil2</item>
+        <item>@drawable/dude</item>
+        <item>@drawable/dude1</item>
+        <item>@drawable/engineer</item>
+        <item>@drawable/genius1</item>
+        <item>@drawable/girl13</item>
+        <item>@drawable/graduate6</item>
+        <item>@drawable/handy</item>
+        <item>@drawable/happy13</item>
+        <item>@drawable/magician3</item>
+        <item>@drawable/male158</item>
+        <item>@drawable/male159</item>
+        <item>@drawable/male160</item>
+        <item>@drawable/motorcyclist1</item>
+        <item>@drawable/pilot</item>
+        <item>@drawable/profile24</item>
+        <item>@drawable/scientist</item>
+        <item>@drawable/security22</item>
+        <item>@drawable/sherlock</item>
+        <item>@drawable/speaker48</item>
+        <item>@drawable/spy1</item>
+        <item>@drawable/stockbroker</item>
+        <item>@drawable/stockbroker1</item>
+        <item>@drawable/surgeon1</item>
+        <item>@drawable/user80</item>
+        <item>@drawable/user81</item>
+        <item>@drawable/user82</item>
+        <item>@drawable/user86</item>
+        <item>@drawable/user93</item>
+    </string-array>
+</resources>
